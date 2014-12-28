@@ -20,7 +20,7 @@ Initially, students can access a sampled subgraph as the seed of the social netw
 - C 99 for .c files
 - Python 3 with library NetworkX for .py files
 
-### File descriptions
+### File Descriptions
 
 - *distribution_computation.py*: To compute the distributions of degree and attributes of a social network.
 - *kl_divergence_computation.py*: To compute the symmetric KL divergence of given two probability distributions.
