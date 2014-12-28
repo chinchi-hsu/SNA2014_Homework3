@@ -9,7 +9,7 @@ Students are allowed to ask the query system for the neighbors of a given node, 
 
 Initially, students can access a sampled subgraph as the seed of the social network.
 
-# Used Datasets
+### Used Datasets
 
 [Pokec network at SNAP](http://snap.stanford.edu/data/soc-pokec.html)
 
