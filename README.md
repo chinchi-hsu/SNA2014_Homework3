@@ -12,7 +12,7 @@ Initially, students can access a sampled subgraph as the seed of the social netw
 ### Used Datasets
 
 - [Pokec network at SNAP](http://snap.stanford.edu/data/soc-pokec.html)
-- [Catster/Dogster familylinks/friendship](http://konect.uni-koblenz.de/networks/petster-carnivore)
+- [Catster/Dogster familylinks/friendship at KONECT](http://konect.uni-koblenz.de/networks/petster-carnivore)
 
 ### Environment
 
